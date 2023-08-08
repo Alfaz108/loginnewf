@@ -1,0 +1,68 @@
+body{
+    background:  whitesmoke;
+}
+.face{
+  
+   
+    float: left;
+    width: 20%;
+    margin-top: 200px;
+    margin-left: 300px;
+}
+
+.login{
+   width: 22%;
+   float: right;
+   margin-top: 150px;
+   background:white;
+   margin-right: 200px;
+   box-shadow:  1px 1px 2px #888888;
+   border-radius:8px;
+}
+
+.face h1{
+   
+   color:#0A6EBD;
+   font-size: 40px;
+   font-weight: bold;
+}
+.face label{
+    font-size: 15px;
+}
+.login input{
+    width: 250px;
+    padding: 7px;
+    margin-bottom: 5px;
+    margin-left:12px;
+    margin-top: 20px;
+    border-radius: 5px;
+  
+   
+}
+.login button{
+    margin-left:12px;
+    margin-top: 10px;
+    width: 270px;
+    padding: 5px;
+    background-color: #0A6EBD;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.login label{
+  margin-left: 80px;
+    color: #4477CE;
+   
+}
+
+#Create{
+   color: white;
+    background: rgb(21, 141, 27);
+    width: 150px;
+    padding: 8px;
+    margin-left: 73px;
+    margin-top: 40px;
+}
+
+
